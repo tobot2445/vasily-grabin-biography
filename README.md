@@ -72,12 +72,6 @@
 - 📘 Википедия:  
   https://ru.wikipedia.org/wiki/Грабин,_Василий_Гаврилович  
 
-- 📚 Военная техника СССР:  
-  https://www.arms-expo.ru  
-
-- 👤 Герои Страны:  
-  http://www.warheroes.ru  
-
 ---
 
 ## 🎨 Тёмная версия сайта
