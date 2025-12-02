@@ -1,6 +1,6 @@
 <!-- ГЛАВНЫЙ БАННЕР -->
 <p align="center">
-  <img src="https://2worldwar.fandom.com/ru/wiki/%D0%93%D1%80%D0%B0%D0%B1%D0%B8%D0%BD,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" width="70%" alt="Vasily Grabin Banner">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D1%80%D0%B0%D0%B1%D0%B8%D0%BD.jpg?20190622181509" width="70%" alt="Vasily Grabin Banner">
 </p>
 
 <h1 align="center">✨ Василий Гаврилович Грабин ✨</h1>
